@@ -26,7 +26,7 @@ To view the project, follow these steps:
    `git clone https://github.com/your-username/css-colors-assignment.git`
 2. Open the index.html file in your web browser to view the project.
 
-### Conclusion
+## Conclusion
 
 By completing this assignment, I gained a better understanding of how to use different color values in CSS, which will allow me to create more visually appealing and engaging web pages in the future.
 
