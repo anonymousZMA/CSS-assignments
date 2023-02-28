@@ -36,10 +36,10 @@ By completing this assignment, I gained a better understanding of how to use dif
 
 In CSS, colors can be defined using several different formats, including:
 
-**RGB**: This format uses values for red, green, and blue to define a color. The values can range from 0 to 255.
-**Hex**: This format uses a six-digit hexadecimal code to define a color. The code is made up of values for red, green, and blue, each represented by two hexadecimal digits.
-**HSL**: This format uses values for hue, saturation, and lightness to define a color. Hue is represented as an angle in degrees (from 0 to 360), while saturation and lightness are represented as percentages (from 0% to 100%).
-**Keyword**: This format uses predefined color names, such as red, green, blue, etc.
+- **RGB**: This format uses values for red, green, and blue to define a color. The values can range from 0 to 255.
+- **Hex**: This format uses a six-digit hexadecimal code to define a color. The code is made up of values for red, green, and blue, each represented by two hexadecimal digits.
+- **HSL**: This format uses values for hue, saturation, and lightness to define a color. Hue is represented as an angle in degrees (from 0 to 360), while saturation and lightness are represented as percentages (from 0% to 100%).
+- **Keyword**: This format uses predefined color names, such as red, green, blue, etc.
 When choosing colors for your web pages, it's important to consider factors such as contrast, readability, and accessibility. For example, if you have text on a dark background, you may need to choose a light text color to ensure that it is readable.
 
 You can also use online tools, such as color pickers and contrast checkers, to help you choose colors and ensure that your designs are accessible to all users.
