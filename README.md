@@ -16,8 +16,8 @@ I used Git for version control and hosted the pages using GitHub Pages.
 ## How to View the Pages
 You can view each assignment solution live by clicking on the links below:
 - [Assignment 1: CSS Main](https://anonymouszma.github.io/CSS-assignments/CSS-Main)
-- [Assignment 2](insert link here)
-- [Assignment 3](insert link here)
+- [Assignment 2: Colors](https://anonymouszma.github.io/CSS-assignments/colors/)
+- [Assignment 3: Links & Images](https://anonymouszma.github.io/CSS-assignments/Links-and-Images/)
 
 Conclusion
 By completing these CSS assignments, I have gained experience in using different CSS properties to create visually appealing and responsive designs. I have also learned how to use Git for version control and deploy the pages using GitHub Pages. Thank you for viewing my solutions!
