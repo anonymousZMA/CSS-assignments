@@ -15,7 +15,7 @@ I used Git for version control and hosted the pages using GitHub Pages.
 
 ## How to View the Pages
 You can view each assignment solution live by clicking on the links below:
-- [Assignment 1](insert link here)
+- [Assignment 1: CSS Main](https://anonymouszma.github.io/CSS-assignments/CSS-Main)
 - [Assignment 2](insert link here)
 - [Assignment 3](insert link here)
 
