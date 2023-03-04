@@ -30,8 +30,8 @@ To get started with this assignment, you should:
 
 Here are some resources you may find helpful for completing this assignment:
 
-- ![CSS Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- ![Git Handbook](https://docs.github.com/en/get-started/using-git/about-git)
+- [CSS Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Git Handbook](https://git-scm.com/book/en/v2)
 
 ## How to View the Page 🎥
 
