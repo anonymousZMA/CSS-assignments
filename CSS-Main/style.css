@@ -36,13 +36,13 @@ body {
 
 #header-logo {
   font-size: 24px;
-  flex: 2;
+  flex: 2 1 100px;
 }
 
 ul {
   list-style: none;
   display: flex;
-  flex: 1;
+  flex: 1 0 200px;
   justify-content: space-between;
 }
 
@@ -61,12 +61,12 @@ a {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  height: 30em;
 }
 
 #header-right-img {
   width: 15em;
   height: auto;
+  display: block;
 }
 
 .header-left-items {
@@ -74,7 +74,7 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  flex: 2;
+  flex: 2 1 20em;
 }
 
 #header-main-text {
@@ -97,19 +97,19 @@ button {
   display: flex;
   align-items: center;
   justify-content: end;
-  flex: 1;
-}
-
-#products-title {
-  font-size: 30px;
-  font-weight: bold;
-  color: var(--main);
+  flex: 1 1 20em;
 }
 
 #products {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+#products-title {
+  font-size: 30px;
+  font-weight: bold;
+  color: var(--main);
 }
 
 .products-cards {
@@ -128,7 +128,7 @@ button {
   transition: 1s;
 }
 
-.products-cards > .card {
+.card {
   width: 200px;
   height: 200px;
   border-radius: 2em;
@@ -223,4 +223,18 @@ footer {
 #contact,
 footer {
   font-family: "Aclonica", sans-serif;
+}
+
+@media screen and (max-width: 600px) {
+  #header-content {
+    height: 60em;
+  }
+
+  #header-container {
+    padding: 0 2em;
+  }
+
+  #quote {
+    padding: 2em;
+  }
 }
